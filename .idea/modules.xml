@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ex4_pythagore/Ex4_pythagore.iml" filepath="$PROJECT_DIR$/Ex4_pythagore/Ex4_pythagore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex5_vecteur/Ex5_vecteur.iml" filepath="$PROJECT_DIR$/Ex5_vecteur/Ex5_vecteur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exp1_experienceVerte/Exp1_experienceVerte.iml" filepath="$PROJECT_DIR$/Exp1_experienceVerte/Exp1_experienceVerte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exp2_resolution/Exp2_resolution.iml" filepath="$PROJECT_DIR$/Exp2_resolution/Exp2_resolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laboratoire A.iml" filepath="$PROJECT_DIR$/Laboratoire A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Std1_geometrie/Std1_geometrie.iml" filepath="$PROJECT_DIR$/Std1_geometrie/Std1_geometrie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Std2_Typage/Std2_Typage.iml" filepath="$PROJECT_DIR$/Std2_Typage/Std2_Typage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stf3_Boitenoire/Stf3_Boitenoire.iml" filepath="$PROJECT_DIR$/Stf3_Boitenoire/Stf3_Boitenoire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/convertisseur2/convertisseur2.iml" filepath="$PROJECT_DIR$/convertisseur2/convertisseur2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex1_salutation/ex1_salutation.iml" filepath="$PROJECT_DIR$/ex1_salutation/ex1_salutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex2_Convertisseur/ex2_Convertisseur.iml" filepath="$PROJECT_DIR$/ex2_Convertisseur/ex2_Convertisseur.iml" />
+    </modules>
+  </component>
+</project>
